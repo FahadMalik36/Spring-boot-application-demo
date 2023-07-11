@@ -1,4 +1,5 @@
 # Spring-boot-Application
-Spring Boot Application 
+This is a simple Spring Boot Application 
 The application is built with Maven.
-CRUD Api and Postgresql as database running on docker
+CRUD Api
+Postgresql as database running on docker
